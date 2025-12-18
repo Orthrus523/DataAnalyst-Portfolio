@@ -1,2 +1,3 @@
 # SQL_practice-projects
-hey this repo is for tracking of my progress in sql journey in postgressql from basic queries to projects
+This repository contains my end-to-end SQL practice work using PostgreSQL, covering all core and intermediate concepts expected from a Data Analyst
+
